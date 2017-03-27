@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+h1,h2,h3,h5{
+  color: #ffffff;
+  font-family: 'Pangolin', cursive;
+}
+h1{
+  padding: 20px;
+  text-align: center;
+}
+h3{
+  padding: 20px;
+}
+input{
+  font-family: 'Pangolin', cursive;
+}
+button{
+  font-family: 'Pangolin', cursive;
+
+}
+text{
+  color: #ffffff;
+  font-family: 'Pangolin', cursive;
+}
